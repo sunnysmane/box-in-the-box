@@ -1,6 +1,11 @@
 {
   "name": "box-in-the-box",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Box in the box",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnysmane/box-in-the-box.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
